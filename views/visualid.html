@@ -1,0 +1,26 @@
+<style>.webdesign,.development,.pt-br{display:none;}.visualid{display:block!important;}</style>
+
+
+<div class="main-works">
+
+<aside class="works-cat col-lg-2" ng-include="'views/works-menu.html'"> 
+</aside>
+
+<section class="works col-lg-10">
+   <h1>Visual Id</h1> <p> Logos,Illustrations,Banners.</p>
+    <ul >
+       <a href="{{post.href}}"  ng-repeat="post in posts"   class="{{post.data}}"> <li>
+        <div class="{{post.class}}"></div>
+        <h1>{{post.title}}</h1>
+        <p>Client: {{post.client}}</p> 
+        <p>Category: {{post.cat}} </p> 
+        <p>Technology: {{post.tech}} </p>   
+         <p>Year: {{post.year}} </p>    
+        </li></a>
+
+        
+    </ul>
+    
+    
+</section>
+</div>

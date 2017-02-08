@@ -1,0 +1,390 @@
+[
+    
+     
+     {"data":"html wordpress css a2013 a2012 a2013 a2014 development",
+ "title": "MayraAbucham",
+"client": "MayraAbucham",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/mayraabucham",
+      "year": "2014",
+     "class": "w37"
+}, 
+    
+     {"data":"html aspnet css a2013 a2012 a2013 a2014 webdesign development",
+ "title": "MoreX",
+"client": "INCA",
+"cat": "Webdesign,Development",
+"tech": "Photoshop,ASP.net C#,HTML/CSS",
+"href": "works/morex",
+      "year": "2011 - 2012 - 2013 -2014",
+     "class": "w34"
+}, 
+
+    {
+    "data":"photoshop html aspnet visualid webdesign development a2011 a2012 a2013",
+"title": "Panalink",
+"client": "Panasonic",
+"cat": "Webdesign,Visual Ids,Development",
+"tech": "HTML/CSS,Photoshop,ASP.net C#",
+"href": "works/panalink",
+      "year": "2011 - 2012 - 2013 - 2014",
+    "class": "w1"
+},
+    
+        {"data":"html php wordpress css a2014 development",
+ "title": "Nova Câmera",
+"client": "Nova Câmera",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/novacamera",
+      "year": "2014",
+     "class": "w36"
+},
+    
+     {"data":"html php wordpress css a2014 development",
+ "title": "Whatabout",
+"client": "Whatabout",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/whatabout",
+      "year": "2014",
+     "class": "w35"
+},
+    
+     {"data":"html wordpress css a2013 development",
+ "title": "Dedo de Moça",
+"client": "Dedo de Moça",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/dedodemoca",
+      "year": "2013",
+     "class": "w33"
+},
+    
+    
+       {"data":"html photoshop css a2013 webdesign development",
+ "title": "InterFactory",
+"client": "InterFactory",
+"cat": "Webdesign,Development",
+"tech": "Photoshop,HTML/CSS",
+"href": "works/interfactory",
+      "year": "2013",
+     "class": "w32"
+},
+    
+    {"data":"html photoshop css a2013 webdesign development",
+ "title": "Tecle Taxi",
+"client": "InterFactory",
+"cat": "Webdesign,Development",
+"tech": "Photoshop,HTML/CSS",
+"href": "works/tecletaxi",
+      "year": "2013",
+     "class": "w31"
+},
+  {"data":"html aspnet css a2013 webdesign development",
+ "title": "FrontLogin",
+"client": "InterFactory",
+"cat": "WebDesign,Development",
+"tech": "ASP.net C#,HTML/CSS",
+"href": "works/frontlogin",
+      "year": "2013",
+     "class": "w30"
+},
+ {"data":"wordpress html php css a2013 development",
+ "title": "Brookes Presentes",
+"client": "Brookes",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/brookes",
+      "year": "2013",
+     "class": "w29"
+}
+
+  ,
+   {"data":"wordpress html php css a2013 webdesign development",
+ "title": "Cahelon",
+"client": "Cahelon",
+"cat": "Webdesign,Development",
+"tech": "Photoshop,Wordpress,PHP,HTML/CSS",
+"href": "works/cahelon",
+      "year": "2013",
+     "class": "w28"
+}
+
+  ,
+  {"data":"wordpress html php css a2013 development",
+ "title": "Épice",
+"client": "Épice",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/epice",
+      "year": "2013",
+     "class": "w27"
+}
+ ,
+  {"data":"wordpress html php css a2013 development",
+ "title": "KAA",
+"client": "KAA",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/kaa",
+      "year": "2013",
+     "class": "w26"
+}
+ ,
+  {"data":"wordpress html php css a2013 development",
+ "title": "Girarrosto",
+"client": "Girarrosto",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/girarrosto",
+      "year": "2013",
+     "class": "w25"
+}
+ ,
+  {"data":"wordpress html php css a2013 development",
+ "title": "Fi Bueno",
+"client": "Fi Bueno",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/fibueno",
+      "year": "2013",
+     "class": "w24"
+}
+ ,
+  {"data":"wordpress html php css a2013 development",
+ "title": "Escola de Inglês Aeroporto",
+"client": "Excellent Global",
+"cat": "Webdesign,Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/excellentglobal",
+      "year": "2013",
+     "class": "w23"
+}
+ ,
+  {"data":"wordpress html php css a2012 development",
+ "title": "Shots",
+"client": "Shots",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/shots",
+      "year": "2012",
+     "class": "w20"
+}
+
+ ,
+  {"data":"wordpress html php css a2012 development",
+ "title": "Pedro Lobo",
+"client": "Pedro Lobo",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/pedrolobo",
+      "year": "2012",
+     "class": "w19"
+}
+
+ 
+ ,
+  {"data":"wordpress html php css a2012 development",
+ "title": "U-ME",
+"client": "U-ME",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/ume",
+      "year": "2012",
+     "class": "w18"
+}
+ 
+ ,
+ 
+   
+ {"data":"html css a2012 development",
+ "title": "Roundup",
+"client": "Monsanto",
+"cat": "Development",
+"tech": "HTML/CSS",
+"href": "works/monsanto",
+      "year": "2012",
+     "class": "w10"
+}
+   ,
+ {"data":"html aspnet css a2012 development",
+ "title": "Revista SpeakUp",
+"client": "Editora Rickdan",
+"cat": "Development",
+"tech": "ASP.net C#,HTML/CSS",
+"href": "works/speakup",
+      "year": "2012",
+     "class": "w11"
+}
+ 
+  ,
+ {"data":"html aspnet css a2012 development",
+ "title": "Revista Gosto",
+"client": "Editora Rickdan",
+"cat": "Development",
+"tech": "ASP.net C#,HTML/CSS",
+"href": "works/gosto",
+      "year": "2012",
+     "class": "w12"
+}
+ 
+   ,
+ {"data":"html aspnet css a2012 webdesign development",
+ "title": "Admin Rickdan",
+"client": "Editora Rickdan",
+"cat": "Webdesign,Development",
+"tech": "ASP.net C#,HTML/CSS",
+"href": "works/rickdan",
+      "year": "2012",
+     "class": "w13"
+}
+   ,
+ {"data":"html php css a2012 development",
+ "title": "Ole Olá",
+"client": "Ole Olá",
+"cat": "Development",
+"tech": "PHP,HTML/CSS",
+"href": "works/oleola",
+      "year": "2012",
+     "class": "w14"
+}
+ 
+   ,
+ {"data":"html php css a2011 development",
+ "title": "Portal do Assinante",
+"client": "Estadão",
+"cat": "Development",
+"tech": "PHP,HTML/CSS",
+"href": "works/portaldoassinante",
+      "year": "2011",
+     "class": "w21"
+}
+ 
+   ,
+ {"data":"html php css a2011 development",
+ "title": "Cannes Lions",
+"client": "Estadão",
+"cat": "Development",
+"tech": "PHP,HTML/CSS",
+"href": "works/cannesestadao",
+      "year": "2011",
+     "class": "w15"
+}
+     ,
+ {"data":"html php css development a2011",
+ "title": "Premio Paladar",
+"client": "Estadão",
+"cat": "Development",
+"tech": "PHP,HTML/CSS",
+"href": "works/premiopaladar",
+      "year": "2011",
+     "class": "w22"
+},
+ {"data":"html php css development a2012",
+ "title": "Top Imobiliário",
+"client": "Estadão",
+"cat": "Development",
+"tech": "PHP,HTML/CSS",
+"href": "works/topimobiliario",
+      "year": "2012",
+     "class": "w16"
+}
+  ,
+ {"data":"html php css development a2012",
+ "title": "My Baby Store",
+"client": "My Baby Store",
+"cat": "Development",
+"tech": "PHP,HTML/CSS",
+"href": "works/mybabystore",
+      "year": "2012",
+     "class": "w17"
+}
+ 
+ ,
+ 
+ {
+"data":"photoshop visualid a2011",
+ "title": "X-70",
+"client": "Panasonic",
+"cat": "Visual Ids",
+"tech": "Photoshop",
+"href": "works/X-70",
+       "year": "2011",
+     "class": "w2"
+},
+  {
+"data":"photoshop visualid development visualid webdesign a2011",
+ "title": "Omniflux",
+"client": "Omniflux",
+"cat": "Webdesign,Visual Ids,Development",
+"tech": "Photoshop,PHP,HTML/CSS",
+"href": "works/omniflux",
+       "year": "2011",
+     "class": "w3"
+}
+ 
+  ,
+  {
+"data":"photoshop webdesign development visualid webdesign a2011",
+ "title": "INCA",
+"client": "INCA",
+"cat": "Webdesign,Visual Ids,Development",
+"tech": "Photoshop,PHP,HTML/CSS",
+"href": "works/inca",
+      "year": "2011",
+     "class": "w5"
+}
+   ,
+  {
+"data":"photoshop visualid a2011 webdesign visualid",
+ "title": "Lifan Motors",
+"client": "Lifan Motors Brasil",
+"cat": "Webdesign,Visual Ids",
+"tech": "Photoshop",
+"href": "works/lifan",
+      "year": "2011",
+     "class": "w6"
+},
+ {"data":"html css wordpress php a2011 development",
+ "title": "Thera Faria Lima",
+"client": "Cyrella",
+"cat": "Development",
+"tech": "Wordpress,PHP,HTML/CSS",
+"href": "works/thera",
+      "year": "2011",
+     "class": "w7"
+}
+ ,
+ {"data":"html css php a2011 development",
+ "title": "Encontro Ipiranga",
+"client": "Cyrella",
+"cat": "Development",
+"tech": "PHP,HTML/CSS",
+"href": "works/encontroipiranga",
+      "year": "2011",
+     "class": "w8"
+}
+  ,
+ {"data":"html aspnet css a2011 development",
+ "title": "Samsung Training",
+"client": "Samsung",
+"cat": "Development",
+"tech": "ASP.NET C#,HTML/CSS",
+"href": "works/samsung",
+      "year": "2011",
+     "class": "w9"
+},
+  {
+"data":"photoshop webdesign pre2011 webdesign",
+ "title": "Pre 2011",
+"client": "Eu Mesmo",
+"cat": "Webdesign",
+"tech": "Photoshop",
+"href": "works/pre2011",
+      "year": "Pre 2011",
+     "class": "w4"
+}
+ 
+]

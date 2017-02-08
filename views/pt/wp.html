@@ -1,0 +1,26 @@
+<style>.aspnet,.photoshop,.php,.html,.en{display:none;}.wordpress{display:block!important;}</style>
+
+
+<div class="main-works">
+
+<aside class="works-cat col-lg-2" ng-include="'views/portfolio-menu.html'"> 
+</aside>
+
+<section class="works col-lg-10">
+   <h1>Wordpress</h1> <p> Temas e Customizações.</p>
+    <ul >
+       <a href="{{post.href}}"  ng-repeat="post in posts"   class="{{post.data}}"> <li>
+        <div class="{{post.class}}"></div>
+     <h1>{{post.title}}</h1>
+        <p>Cliente: {{post.client}}</p> 
+        <p>Categoria: {{post.cat}} </p> 
+        <p>Tecnologia: {{post.tech}} </p>   
+         <p>Ano: {{post.year}} </p>     
+        </li></a>
+
+        
+    </ul>
+    
+    
+</section>
+</div>

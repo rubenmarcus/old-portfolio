@@ -1,0 +1,26 @@
+<style>.aspnet,.html,.wordpress,.php,.pt-br,.a2012,.pre2011,.a2013,.a2014,.a2015,.photoshop{display:none;}.a2011{display:block!important;}</style>
+
+
+<div class="main-works">
+
+<aside class="works-cat col-lg-2" ng-include="'views/works-menu.html'"> 
+</aside>
+
+<section class="works col-lg-10">
+   <h1>2011</h1> <p></p>
+    <ul >
+       <a href="{{post.href}}"  ng-repeat="post in posts"   class="{{post.data}}"> <li>
+        <div class="{{post.class}}"></div>
+        <h1>{{post.title}}</h1>
+        <p>Client: {{post.client}}</p> 
+        <p>Category: {{post.cat}} </p> 
+        <p>Technology: {{post.tech}} </p>   
+         <p>Year: {{post.year}} </p>    
+        </li></a>
+
+        
+    </ul>
+    
+    
+</section>
+</div>

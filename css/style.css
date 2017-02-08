@@ -1,0 +1,29 @@
+::-webkit-scrollbar {
+    width: 12px;
+        background: #fff!important;
+    padding:2px;
+}
+ 
+::-webkit-scrollbar-track {
+   width:5px;
+    border-radius: 10px;
+    background:#f4f4f4;
+    padding:2px;
+}
+ 
+::-webkit-scrollbar-thumb {
+border-radius: 10px;
+width: 0px;
+padding: 2px;
+background: #355ca3;}
+
+section {
+    margin-bottom: 30px
+}
+section p:last-child {
+    margin-bottom: 0
+}
+section:last-child {
+margin-bottom: 0;
+}
+.align-right{float:right;}
